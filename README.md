@@ -49,6 +49,8 @@ Inspired originally from [Pascal Getreuer's symbol layer](https://getreuer.info/
 
 ![L4 Symbols Layer](_images/layer-4-symbols.png)
 
+</details>
+
 <details open>
 
 <summary><strong>L5 - Windows Layer </strong></summary>
