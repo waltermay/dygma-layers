@@ -49,13 +49,13 @@ Inspired originally from [Pascal Getreuer's symbol layer](https://getreuer.info/
 
 ![L4 Symbols Layer](_images/layer-4-symbols.png)
 
-</details>
+<details open>
 
 <summary><strong>L5 - Windows Layer </strong></summary>
 
 Layer containing configuration for a Windows machine. This layer is similar
 to the macOS layer apart from Windows-specific shortcuts and keys.
 
-![L4 Windows](_images/layer-5-windows.png)
+![L5 Windows Layer](_images/layer-5-windows.png)
 
 </details>
