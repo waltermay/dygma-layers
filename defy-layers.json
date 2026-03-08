@@ -434,7 +434,7 @@
     },
     {
       "command": "qukeys.holdTimeout",
-      "data": "200"
+      "data": "175"
     },
     {
       "command": "qukeys.overlapThreshold",
@@ -466,7 +466,7 @@
     },
     {
       "command": "superkeys.holdstart",
-      "data": "200"
+      "data": "175"
     },
     {
       "command": "superkeys.overlap",
